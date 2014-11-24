@@ -324,5 +324,3 @@ function shopperApprovedSealShortCode($atts)
 add_shortcode('shopper-approved-seal', 'shopperApprovedSealShortCode');
 /* End Shortcode */
 ?>
-
-
