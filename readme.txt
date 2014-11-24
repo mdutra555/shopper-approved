@@ -2,7 +2,7 @@
 Contributors: (shopperapproved)
 Donate link:
 Tags: customer reviews, customer ratings, wordpress reviews, wordpress ratings, merchant ratings, customer review software, ratings, reviews
-Requires at least: 3.0.1
+Requires at least: 3.5
 Tested up to: 4.3
 Stable tag: 4.3
 License: GPLv2 or later
