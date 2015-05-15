@@ -1,7 +1,7 @@
 <?php
 /**
  * @package Shopper_Approved
- * @version 1.0
+ * @version 1.01
  */
 /*
 Plugin Name: Shopper Approved
