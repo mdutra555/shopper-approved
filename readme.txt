@@ -47,9 +47,13 @@ Absolutely not. The Shopper Approved plugin for wordpress makes it super easy so
 
 
 == Upgrade notice ==
-
+= 1.01 =
+Update for slightly Faster code retrieval
 
 == Changelog ==
+
+= 1.01 =
+Update for slightly Faster code retrieval
 
 = 1.0 =
 * Shopper Approved for Wordpress Plugin Released
