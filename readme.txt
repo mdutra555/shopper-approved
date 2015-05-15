@@ -51,5 +51,5 @@ Absolutely not. The Shopper Approved plugin for wordpress makes it super easy so
 
 == Changelog ==
 
-= 1.01 =
+= 1.0 =
 * Shopper Approved for Wordpress Plugin Released
