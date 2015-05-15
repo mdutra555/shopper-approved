@@ -8,7 +8,7 @@ Plugin Name: Shopper Approved
 Plugin URI: http://wordpress.org/plugins/shopper-approved/
 Description: Collect and display ratings from Shopper Approved that actually show up in Google, Yahoo, and Bing to establish credibility before customers even enter your website!
 Author: Shopper Approved
-Version: 1.0
+Version: 1.01
 Author URI: http://www.shopperapproved.com/
 */
 
