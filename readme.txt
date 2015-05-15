@@ -53,7 +53,7 @@ Update for slightly Faster code retrieval
 == Changelog ==
 
 = 1.01 =
-Update for slightly Faster code retrieval
+* Update for slightly Faster code retrieval
 
 = 1.0 =
-* Shopper Approved for Wordpress Plugin Released
+Shopper Approved for Wordpress Plugin Released
