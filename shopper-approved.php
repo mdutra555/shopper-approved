@@ -291,7 +291,7 @@ function shopperApprovedSurveyShortCode($atts)
     $returnScript .= 'var sa_values = { "site":' . $shopperApprovedID . '}; ';
     $returnScript .= 'function saLoadScript(src) { var js = window.document.createElement("script"); js.src = src; js.type = "text/javascript"; document.getElementsByTagName("head")[0].appendChild(js); } var d = new Date(); if (d.getTime() - 172800000 > 1415251775000) ';
     $returnScript .= 'saLoadScript("//www.shopperapproved.com/thankyou/rate/' . $shopperApprovedID . '.js"); ';
-    $returnScript .= 'else saLoadScript("//direct.shopperapproved.com/thankyou/rate/' . $shopperApprovedID . '.js?d=" + d.getTime()); </script>';
+    $returnScript .= 'else saLoadScript("//www.shopperapproved.com/thankyou/rate/' . $shopperApprovedID . '.js?d=" + d.getTime()); </script>';
     return $returnScript;
 }
 
